@@ -247,4 +247,4 @@ JavaScript project focused on backend and payment testing work.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:008CFF,100:050816&height=130&section=footer" width="100%"/>
 
-<
+
