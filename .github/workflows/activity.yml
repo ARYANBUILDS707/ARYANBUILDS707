@@ -1,0 +1,42 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ARYANBUILDS707
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: dist/activity-graph.svg
+          options: >-
+            bg_color=050816&
+            color=E6F7FF&
+            line=00D9FF&
+            point=00AEEF&
+            area_color=008CFF&
+            area=true&
+            hide_border=true&
+            custom_title=ARYANBUILDS707%20-%20Contribution%20Activity&
+            radius=8&
+            height=300
+
+      - name: Deploy activity graph
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
