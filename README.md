@@ -149,7 +149,19 @@ Learning        → DSA / System Design
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANBUILDS707&bg_color=050816&color=E6F7FF&line=00D9FF&point=00AEEF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<h2 align="center">📈 ACTIVITY GRAPH</h2>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/ARYANBUILDS707/ARYANBUILDS707/output/activity-graph.svg"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
 
 </div>
 
