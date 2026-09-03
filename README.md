@@ -193,7 +193,7 @@ A repository focused on learning and practicing Git & GitHub fundamentals.
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <br>
