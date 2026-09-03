@@ -194,18 +194,27 @@ A repository focused on learning and practicing Git & GitHub fundamentals.
 <div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ARYANBUILDS707/ARYANBUILDS707/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ARYANBUILDS707/ARYANBUILDS707/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ARYANBUILDS707/ARYANBUILDS707/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="90%"
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ARYANBUILDS707/ARYANBUILDS707/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ## 🌐 LET'S CONNECT
 
