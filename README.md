@@ -121,17 +121,51 @@ I enjoy working across the stack — from designing interfaces to building APIs,
 
 <div align="center">
 
-## 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANBUILDS707&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Aryan's%20Contribution%20Graph" width="96%"/>
-
-</div>
+<h2 align="center">📊 GITHUB STATS</h2>
 
 <br>
 
----
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ARYANBUILDS707&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E6F7FF&icon_color=00AEEF&ring_color=00D9FF"
+    alt="Aryan's GitHub Stats"
+  />
 
-<div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANBUILDS707&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E6F7FF&icon_color=00AEEF"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<h2 align="center">🔥 GITHUB STREAK</h2>
+
+<br>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=ARYANBUILDS707&hide_border=true&background=050816&ring=00D9FF&fire=00AEEF&currStreakLabel=00D9FF&sideLabels=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=6B7280"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<h2 align="center">📈 ACTIVITY GRAPH</h2>
+
+<br>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANBUILDS707&bg_color=050816&color=E6F7FF&line=00D9FF&point=00AEEF&area_color=008CFF&area=true&hide_border=true&custom_title=ARYANBUILDS707%20-%20Contribution%20Activity"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ## 🚀 FEATURED PROJECTS
 
