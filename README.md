@@ -231,7 +231,7 @@ JavaScript project focused on backend and payment testing work.
 <img src="https://img.shields.io/badge/INSTAGRAM-008CFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://x.com/aryan_legit777">
+<a href="https://x.com/Aryan_legit77">
 <img src="https://img.shields.io/badge/X%20(TWITTER)-00AEEF?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
 </a>
 
