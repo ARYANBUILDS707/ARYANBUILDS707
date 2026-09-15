@@ -14,12 +14,12 @@
 
 <br>
 
-<h1 align="center">👋 HEY THERE, I'M ARYAN SINGH</h1>
+<h1 align="center">HEY THERE, I'M ARYAN SINGH</h1>
 
 <p align="center">
-  <b>💻 FULL-STACK DEVELOPER</b> &nbsp;•&nbsp;
-  <b>🚀 BUILDER</b> &nbsp;•&nbsp;
-  <b>🧠 PROBLEM SOLVER</b>
+  <b> FULL-STACK DEVELOPER</b> &nbsp;•&nbsp;
+  <b> BUILDER</b> &nbsp;•&nbsp;
+  <b> PROBLEM SOLVER</b>
 </p>
 
 <br>
@@ -28,15 +28,15 @@
 <tr>
 <td width="58%" valign="middle">
 
-<h2>🚀 ABOUT ME</h2>
+<h2> ABOUT ME</h2>
 
 <p>
-💻 Full-Stack Developer passionate about building web applications<br>
-⚡ Love turning ideas into practical digital products<br>
-🌱 Constantly improving my development skills<br>
-🧠 Interested in modern web technologies and scalable applications<br>
-🔧 I enjoy building, experimenting and solving problems<br>
-🚀 Always learning and exploring new technologies
+ Full-Stack Developer passionate about building web applications<br>
+ Love turning ideas into practical digital products<br>
+ Constantly improving my development skills<br>
+ Interested in modern web technologies and scalable applications<br>
+ I enjoy building, experimenting and solving problems<br>
+ Always learning and exploring new technologies
 </p>
 
 <h3>🎯 CURRENT FOCUS</h3>
@@ -118,7 +118,7 @@
 
 <br>
 
-<h1 align="center">🔥 GITHUB STREAK</h1>
+<h1 align="center">GITHUB STREAK</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ARYANBUILDS707&theme=dark&background=050816&border=00D9FF&stroke=008CFF&ring=00D9FF&fire=00AEEF&currStreakLabel=E6F7FF&sideLabels=E6F7FF&currStreakNum=00D9FF&sideNums=00AEEF&dates=8FAFC0" width="82%" />
